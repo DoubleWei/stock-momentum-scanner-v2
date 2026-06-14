@@ -1,0 +1,2809 @@
+{
+  "last_run": "2026-05-21T00:14:03.305797+08:00",
+  "n_snapshots": 8,
+  "results": [
+    {
+      "generated_at": "2026-05-17T22:24:24.699154+08:00",
+      "schema_version": "2.0",
+      "base_date": "2026-05-15",
+      "eval_dates": {
+        "d1": "2026-05-18",
+        "d2": "2026-05-19",
+        "d3": "2026-05-20"
+      },
+      "twii_returns": {
+        "d1": -0.681,
+        "d2": -2.421,
+        "d3": null
+      },
+      "momentum": {
+        "stocks": [
+          {
+            "ticker": "2344",
+            "rank": 1,
+            "bullish_score": 0.682,
+            "signal_strength": "STRONG",
+            "chips_score": 0.83,
+            "tech_score": 0.55,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 0.772,
+              "d2": -9.266,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.453,
+              "d2": -6.845,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2303",
+            "rank": 2,
+            "bullish_score": 0.656,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.69,
+            "tech_score": 0.65,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 0.909,
+              "d2": 2.727,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.59,
+              "d2": 5.148,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3583",
+            "rank": 3,
+            "bullish_score": 0.651,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.64,
+            "tech_score": 0.7,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 1.351,
+              "d2": -5.18,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.032,
+              "d2": -2.759,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6831",
+            "rank": 4,
+            "bullish_score": 0.64,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.65,
+            "tech_score": 0.65,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 0.966,
+              "d2": 1.103,
+              "d3": -0.69
+            },
+            "alphas": {
+              "d1": 1.647,
+              "d2": 3.524,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3406",
+            "rank": 5,
+            "bullish_score": 0.637,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.38,
+            "tech_score": 1.0,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -1.871,
+              "d2": -5.272,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.19,
+              "d2": -2.851,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2049",
+            "rank": 6,
+            "bullish_score": 0.636,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.64,
+            "tech_score": 0.65,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -3.567,
+              "d2": -4.204,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -2.886,
+              "d2": -1.783,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1605",
+            "rank": 7,
+            "bullish_score": 0.613,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.62,
+            "tech_score": 0.6,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -0.573,
+              "d2": -4.298,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.108,
+              "d2": -1.877,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2542",
+            "rank": 8,
+            "bullish_score": 0.608,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.57,
+            "tech_score": 0.65,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 1.943,
+              "d2": -0.114,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.624,
+              "d2": 2.307,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2327",
+            "rank": 9,
+            "bullish_score": 0.608,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.42,
+            "tech_score": 0.85,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 9.989,
+              "d2": 9.111,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.67,
+              "d2": 11.532,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3034",
+            "rank": 10,
+            "bullish_score": 0.607,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.7,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 1.929,
+              "d2": -0.107,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.61,
+              "d2": 2.314,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2412",
+            "rank": 11,
+            "bullish_score": 0.597,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.43,
+            "tech_score": 0.8,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -0.725,
+              "d2": 3.261,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.044,
+              "d2": 5.682,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2727",
+            "rank": 12,
+            "bullish_score": 0.592,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.65,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -1.48,
+              "d2": -1.057,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.799,
+              "d2": 1.364,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2317",
+            "rank": 13,
+            "bullish_score": 0.586,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.32,
+            "tech_score": 0.8,
+            "news_score": 0.728,
+            "returns": {
+              "d1": 0.0,
+              "d2": -1.408,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.681,
+              "d2": 1.013,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6415",
+            "rank": 14,
+            "bullish_score": 0.585,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.4,
+            "tech_score": 0.8,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 9.829,
+              "d2": 2.991,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.51,
+              "d2": 5.412,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "4571",
+            "rank": 15,
+            "bullish_score": 0.585,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.25,
+            "tech_score": 1.0,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 9.953,
+              "d2": 7.82,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.634,
+              "d2": 10.241,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "5269",
+            "rank": 16,
+            "bullish_score": 0.565,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.35,
+            "tech_score": 0.8,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -4.467,
+              "d2": -5.155,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -3.786,
+              "d2": -2.734,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "8210",
+            "rank": 17,
+            "bullish_score": 0.555,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.4,
+            "tech_score": 0.7,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -2.128,
+              "d2": -6.028,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.447,
+              "d2": -3.607,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2481",
+            "rank": 18,
+            "bullish_score": 0.553,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.32,
+            "tech_score": 0.8,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 9.787,
+              "d2": 14.894,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.468,
+              "d2": 17.315,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6257",
+            "rank": 19,
+            "bullish_score": 0.538,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.32,
+            "tech_score": 0.75,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 0.691,
+              "d2": -2.995,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.372,
+              "d2": -0.574,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6278",
+            "rank": 20,
+            "bullish_score": 0.538,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.32,
+            "tech_score": 0.75,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -4.762,
+              "d2": -2.268,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -4.081,
+              "d2": 0.153,
+              "d3": null
+            }
+          }
+        ],
+        "summary": {
+          "d1": {
+            "n": 20,
+            "avg_return": 1.427,
+            "avg_alpha": 2.108,
+            "hit_rate": 0.55,
+            "beat_rate": 0.65,
+            "twii": -0.681
+          },
+          "d2": {
+            "n": 20,
+            "avg_return": -0.272,
+            "avg_alpha": 2.149,
+            "hit_rate": 0.35,
+            "beat_rate": 0.6,
+            "twii": -2.421
+          },
+          "d3": {
+            "n": 1,
+            "avg_return": -0.69,
+            "avg_alpha": null,
+            "hit_rate": 0.0,
+            "beat_rate": null,
+            "twii": null
+          }
+        }
+      },
+      "launchpad": {
+        "stocks": [
+          {
+            "ticker": "4746",
+            "rank": 1,
+            "bullish_score": 0.549,
+            "signal_strength": "STRONG",
+            "chips_score": 0.32,
+            "tech_score": 0.25,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -3.532,
+              "d2": -4.089,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -2.851,
+              "d2": -1.668,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6491",
+            "rank": 2,
+            "bullish_score": 0.395,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.25,
+            "tech_score": 0.8,
+            "news_score": 0.617,
+            "returns": {
+              "d1": -0.509,
+              "d2": 3.735,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.172,
+              "d2": 6.156,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2379",
+            "rank": 3,
+            "bullish_score": 0.36,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.46,
+            "tech_score": 0.35,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 4.478,
+              "d2": 3.545,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 5.159,
+              "d2": 5.966,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1215",
+            "rank": 4,
+            "bullish_score": 0.325,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.22,
+            "tech_score": 0.55,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 1.071,
+              "d2": 1.071,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.752,
+              "d2": 3.492,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2606",
+            "rank": 5,
+            "bullish_score": 0.269,
+            "signal_strength": "WEAK",
+            "chips_score": 0.25,
+            "tech_score": 0.8,
+            "news_score": 0.617,
+            "returns": {
+              "d1": 0.955,
+              "d2": 1.115,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.636,
+              "d2": 3.536,
+              "d3": null
+            }
+          }
+        ],
+        "summary": {
+          "d1": {
+            "n": 5,
+            "avg_return": 0.493,
+            "avg_alpha": 1.174,
+            "hit_rate": 0.6,
+            "beat_rate": 0.8,
+            "twii": -0.681
+          },
+          "d2": {
+            "n": 5,
+            "avg_return": 1.075,
+            "avg_alpha": 3.496,
+            "hit_rate": 0.8,
+            "beat_rate": 0.8,
+            "twii": -2.421
+          },
+          "d3": null
+        }
+      },
+      "snapshot_file": "2026-05-17T22.json"
+    },
+    {
+      "generated_at": "2026-05-17T21:35:42.543741+08:00",
+      "schema_version": "2.0",
+      "base_date": "2026-05-15",
+      "eval_dates": {
+        "d1": "2026-05-18",
+        "d2": "2026-05-19",
+        "d3": "2026-05-20"
+      },
+      "twii_returns": {
+        "d1": -0.681,
+        "d2": -2.421,
+        "d3": null
+      },
+      "momentum": {
+        "stocks": [
+          {
+            "ticker": "2317",
+            "rank": 1,
+            "bullish_score": 0.565,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.25,
+            "tech_score": 0.8,
+            "news_score": 0.75,
+            "returns": {
+              "d1": 0.0,
+              "d2": -1.408,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.681,
+              "d2": 1.013,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2344",
+            "rank": 2,
+            "bullish_score": 0.563,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.75,
+            "tech_score": 0.55,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 0.772,
+              "d2": -9.266,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.453,
+              "d2": -6.845,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2383",
+            "rank": 3,
+            "bullish_score": 0.543,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.7,
+            "tech_score": 0.55,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -1.517,
+              "d2": -1.733,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.836,
+              "d2": 0.688,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "4958",
+            "rank": 4,
+            "bullish_score": 0.539,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.69,
+            "tech_score": 0.55,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -3.117,
+              "d2": 1.87,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -2.436,
+              "d2": 4.291,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2327",
+            "rank": 5,
+            "bullish_score": 0.533,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.45,
+            "tech_score": 0.85,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 9.989,
+              "d2": 9.111,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.67,
+              "d2": 11.532,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2481",
+            "rank": 6,
+            "bullish_score": 0.53,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.48,
+            "tech_score": 0.8,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 9.787,
+              "d2": 14.894,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.468,
+              "d2": 17.315,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3481",
+            "rank": 7,
+            "bullish_score": 0.525,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.58,
+            "tech_score": 0.65,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 7.202,
+              "d2": 3.74,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 7.883,
+              "d2": 6.161,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2492",
+            "rank": 8,
+            "bullish_score": 0.517,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.56,
+            "tech_score": 0.65,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 5.583,
+              "d2": 6.796,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 6.264,
+              "d2": 9.217,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3037",
+            "rank": 9,
+            "bullish_score": 0.511,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.62,
+            "tech_score": 0.55,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -0.609,
+              "d2": -0.365,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.072,
+              "d2": 2.056,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2337",
+            "rank": 10,
+            "bullish_score": 0.506,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.42,
+            "tech_score": 0.8,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -1.538,
+              "d2": -11.385,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.857,
+              "d2": -8.964,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3006",
+            "rank": 11,
+            "bullish_score": 0.505,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.65,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 0.398,
+              "d2": -5.976,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.079,
+              "d2": -3.555,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1582",
+            "rank": 12,
+            "bullish_score": 0.501,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.37,
+            "tech_score": 0.85,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 7.143,
+              "d2": 17.706,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 7.824,
+              "d2": 20.127,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3443",
+            "rank": 13,
+            "bullish_score": 0.499,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.59,
+            "tech_score": 0.55,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -2.167,
+              "d2": -7.843,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.486,
+              "d2": -5.422,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6415",
+            "rank": 14,
+            "bullish_score": 0.498,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.4,
+            "tech_score": 0.8,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 9.829,
+              "d2": 2.991,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.51,
+              "d2": 5.412,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1216",
+            "rank": 15,
+            "bullish_score": 0.492,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.46,
+            "tech_score": 0.7,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -1.321,
+              "d2": -1.189,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.64,
+              "d2": 1.232,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3034",
+            "rank": 16,
+            "bullish_score": 0.492,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.46,
+            "tech_score": 0.7,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 1.929,
+              "d2": -0.107,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.61,
+              "d2": 2.314,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "4904",
+            "rank": 17,
+            "bullish_score": 0.49,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.38,
+            "tech_score": 0.8,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -1.526,
+              "d2": -0.305,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.845,
+              "d2": 2.116,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6719",
+            "rank": 18,
+            "bullish_score": 0.49,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.38,
+            "tech_score": 0.8,
+            "news_score": 0.328,
+            "returns": {
+              "d1": 10.0,
+              "d2": 5.5,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.681,
+              "d2": 7.921,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2412",
+            "rank": 19,
+            "bullish_score": 0.486,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.37,
+            "tech_score": 0.8,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -0.725,
+              "d2": 3.261,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.044,
+              "d2": 5.682,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "5269",
+            "rank": 20,
+            "bullish_score": 0.478,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.35,
+            "tech_score": 0.8,
+            "news_score": 0.328,
+            "returns": {
+              "d1": -4.467,
+              "d2": -5.155,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -3.786,
+              "d2": -2.734,
+              "d3": null
+            }
+          }
+        ],
+        "summary": {
+          "d1": {
+            "n": 20,
+            "avg_return": 2.282,
+            "avg_alpha": 2.963,
+            "hit_rate": 0.5,
+            "beat_rate": 0.6,
+            "twii": -0.681
+          },
+          "d2": {
+            "n": 20,
+            "avg_return": 1.057,
+            "avg_alpha": 3.478,
+            "hit_rate": 0.45,
+            "beat_rate": 0.75,
+            "twii": -2.421
+          },
+          "d3": null
+        }
+      },
+      "launchpad": {
+        "stocks": [],
+        "summary": {
+          "d1": null,
+          "d2": null,
+          "d3": null
+        }
+      },
+      "snapshot_file": "2026-05-17T21.json"
+    },
+    {
+      "generated_at": "2026-05-17T19:05:31.882480+08:00",
+      "schema_version": "2.0",
+      "base_date": "2026-05-15",
+      "eval_dates": {
+        "d1": "2026-05-18",
+        "d2": "2026-05-19",
+        "d3": "2026-05-20"
+      },
+      "twii_returns": {
+        "d1": -0.681,
+        "d2": -2.421,
+        "d3": null
+      },
+      "momentum": {
+        "stocks": [
+          {
+            "ticker": "6415",
+            "rank": 1,
+            "bullish_score": 0.644,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.64,
+            "tech_score": 0.8,
+            "news_score": 0.492,
+            "returns": {
+              "d1": 9.829,
+              "d2": 2.991,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.51,
+              "d2": 5.412,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2481",
+            "rank": 2,
+            "bullish_score": 0.636,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.62,
+            "tech_score": 0.8,
+            "news_score": 0.492,
+            "returns": {
+              "d1": 9.787,
+              "d2": 14.894,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.468,
+              "d2": 17.315,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2344",
+            "rank": 3,
+            "bullish_score": 0.613,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.75,
+            "tech_score": 0.55,
+            "news_score": 0.492,
+            "returns": {
+              "d1": 0.772,
+              "d2": -9.266,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.453,
+              "d2": -6.845,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3045",
+            "rank": 4,
+            "bullish_score": 0.6,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.8,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -0.437,
+              "d2": 1.747,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.244,
+              "d2": 4.168,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2383",
+            "rank": 5,
+            "bullish_score": 0.593,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.7,
+            "tech_score": 0.55,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -1.517,
+              "d2": -1.733,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.836,
+              "d2": 0.688,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "4904",
+            "rank": 6,
+            "bullish_score": 0.592,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.51,
+            "tech_score": 0.8,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -1.526,
+              "d2": -0.305,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.845,
+              "d2": 2.116,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2408",
+            "rank": 7,
+            "bullish_score": 0.589,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.69,
+            "tech_score": 0.55,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -2.087,
+              "d2": -11.878,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.406,
+              "d2": -9.457,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6770",
+            "rank": 8,
+            "bullish_score": 0.562,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.51,
+            "tech_score": 0.7,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -1.274,
+              "d2": -6.847,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.593,
+              "d2": -4.426,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2376",
+            "rank": 9,
+            "bullish_score": 0.555,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.65,
+            "news_score": 0.492,
+            "returns": {
+              "d1": 1.225,
+              "d2": -6.585,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.906,
+              "d2": -4.164,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2727",
+            "rank": 10,
+            "bullish_score": 0.555,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.65,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -1.48,
+              "d2": -1.057,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.799,
+              "d2": 1.364,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1605",
+            "rank": 11,
+            "bullish_score": 0.552,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.56,
+            "tech_score": 0.6,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -0.573,
+              "d2": -4.298,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.108,
+              "d2": -1.877,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3008",
+            "rank": 12,
+            "bullish_score": 0.551,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.52,
+            "tech_score": 0.65,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -4.499,
+              "d2": -2.322,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -3.818,
+              "d2": 0.099,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1582",
+            "rank": 13,
+            "bullish_score": 0.551,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.37,
+            "tech_score": 0.85,
+            "news_score": 0.492,
+            "returns": {
+              "d1": 7.143,
+              "d2": 17.706,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 7.824,
+              "d2": 20.127,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2049",
+            "rank": 14,
+            "bullish_score": 0.547,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.51,
+            "tech_score": 0.65,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -3.567,
+              "d2": -4.204,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -2.886,
+              "d2": -1.783,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "8028",
+            "rank": 15,
+            "bullish_score": 0.531,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.32,
+            "tech_score": 0.85,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -3.13,
+              "d2": -8.87,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -2.449,
+              "d2": -6.449,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "5269",
+            "rank": 16,
+            "bullish_score": 0.528,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.35,
+            "tech_score": 0.8,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -4.467,
+              "d2": -5.155,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -3.786,
+              "d2": -2.734,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2542",
+            "rank": 17,
+            "bullish_score": 0.527,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.46,
+            "tech_score": 0.65,
+            "news_score": 0.492,
+            "returns": {
+              "d1": 1.943,
+              "d2": -0.114,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.624,
+              "d2": 2.307,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "4571",
+            "rank": 18,
+            "bullish_score": 0.52,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.18,
+            "tech_score": 1.0,
+            "news_score": 0.492,
+            "returns": {
+              "d1": 9.953,
+              "d2": 7.82,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.634,
+              "d2": 10.241,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "8210",
+            "rank": 19,
+            "bullish_score": 0.518,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.4,
+            "tech_score": 0.7,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -2.128,
+              "d2": -6.028,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.447,
+              "d2": -3.607,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2345",
+            "rank": 20,
+            "bullish_score": 0.517,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.51,
+            "tech_score": 0.55,
+            "news_score": 0.492,
+            "returns": {
+              "d1": -0.399,
+              "d2": -4.591,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.282,
+              "d2": -2.17,
+              "d3": null
+            }
+          }
+        ],
+        "summary": {
+          "d1": {
+            "n": 20,
+            "avg_return": 0.678,
+            "avg_alpha": 1.359,
+            "hit_rate": 0.35,
+            "beat_rate": 0.5,
+            "twii": -0.681
+          },
+          "d2": {
+            "n": 20,
+            "avg_return": -1.405,
+            "avg_alpha": 1.016,
+            "hit_rate": 0.25,
+            "beat_rate": 0.5,
+            "twii": -2.421
+          },
+          "d3": null
+        }
+      },
+      "launchpad": {
+        "stocks": [],
+        "summary": {
+          "d1": null,
+          "d2": null,
+          "d3": null
+        }
+      },
+      "snapshot_file": "2026-05-17T19.json"
+    },
+    {
+      "generated_at": "2026-05-17T18:06:38.753080+08:00",
+      "schema_version": "2.0",
+      "base_date": "2026-05-15",
+      "eval_dates": {
+        "d1": "2026-05-18",
+        "d2": "2026-05-19",
+        "d3": "2026-05-20"
+      },
+      "twii_returns": {
+        "d1": -0.681,
+        "d2": -2.421,
+        "d3": null
+      },
+      "momentum": {
+        "stocks": [
+          {
+            "ticker": "2344",
+            "rank": 1,
+            "bullish_score": 0.497,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.83,
+            "tech_score": 0.55,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 0.772,
+              "d2": -9.266,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.453,
+              "d2": -6.845,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2303",
+            "rank": 2,
+            "bullish_score": 0.471,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.69,
+            "tech_score": 0.65,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 0.909,
+              "d2": 2.727,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.59,
+              "d2": 5.148,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3583",
+            "rank": 3,
+            "bullish_score": 0.466,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.64,
+            "tech_score": 0.7,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 1.351,
+              "d2": -5.18,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.032,
+              "d2": -2.759,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6831",
+            "rank": 4,
+            "bullish_score": 0.455,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.65,
+            "tech_score": 0.65,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 0.966,
+              "d2": 1.103,
+              "d3": -0.69
+            },
+            "alphas": {
+              "d1": 1.647,
+              "d2": 3.524,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3406",
+            "rank": 5,
+            "bullish_score": 0.452,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.38,
+            "tech_score": 1.0,
+            "news_score": 0.0,
+            "returns": {
+              "d1": -1.871,
+              "d2": -5.272,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.19,
+              "d2": -2.851,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2049",
+            "rank": 6,
+            "bullish_score": 0.451,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.64,
+            "tech_score": 0.65,
+            "news_score": 0.0,
+            "returns": {
+              "d1": -3.567,
+              "d2": -4.204,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -2.886,
+              "d2": -1.783,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1605",
+            "rank": 7,
+            "bullish_score": 0.428,
+            "signal_strength": "WEAK",
+            "chips_score": 0.62,
+            "tech_score": 0.6,
+            "news_score": 0.0,
+            "returns": {
+              "d1": -0.573,
+              "d2": -4.298,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.108,
+              "d2": -1.877,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2542",
+            "rank": 8,
+            "bullish_score": 0.423,
+            "signal_strength": "WEAK",
+            "chips_score": 0.57,
+            "tech_score": 0.65,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 1.943,
+              "d2": -0.114,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.624,
+              "d2": 2.307,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2327",
+            "rank": 9,
+            "bullish_score": 0.423,
+            "signal_strength": "WEAK",
+            "chips_score": 0.42,
+            "tech_score": 0.85,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 9.989,
+              "d2": 9.111,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.67,
+              "d2": 11.532,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3034",
+            "rank": 10,
+            "bullish_score": 0.422,
+            "signal_strength": "WEAK",
+            "chips_score": 0.53,
+            "tech_score": 0.7,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 1.929,
+              "d2": -0.107,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.61,
+              "d2": 2.314,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2412",
+            "rank": 11,
+            "bullish_score": 0.412,
+            "signal_strength": "WEAK",
+            "chips_score": 0.43,
+            "tech_score": 0.8,
+            "news_score": 0.0,
+            "returns": {
+              "d1": -0.725,
+              "d2": 3.261,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.044,
+              "d2": 5.682,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2727",
+            "rank": 12,
+            "bullish_score": 0.407,
+            "signal_strength": "WEAK",
+            "chips_score": 0.53,
+            "tech_score": 0.65,
+            "news_score": 0.0,
+            "returns": {
+              "d1": -1.48,
+              "d2": -1.057,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.799,
+              "d2": 1.364,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6415",
+            "rank": 13,
+            "bullish_score": 0.4,
+            "signal_strength": "WEAK",
+            "chips_score": 0.4,
+            "tech_score": 0.8,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 9.829,
+              "d2": 2.991,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.51,
+              "d2": 5.412,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "4571",
+            "rank": 14,
+            "bullish_score": 0.4,
+            "signal_strength": "WEAK",
+            "chips_score": 0.25,
+            "tech_score": 1.0,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 9.953,
+              "d2": 7.82,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.634,
+              "d2": 10.241,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "5269",
+            "rank": 15,
+            "bullish_score": 0.38,
+            "signal_strength": "WEAK",
+            "chips_score": 0.35,
+            "tech_score": 0.8,
+            "news_score": 0.0,
+            "returns": {
+              "d1": -4.467,
+              "d2": -5.155,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -3.786,
+              "d2": -2.734,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "8210",
+            "rank": 16,
+            "bullish_score": 0.37,
+            "signal_strength": "WEAK",
+            "chips_score": 0.4,
+            "tech_score": 0.7,
+            "news_score": 0.0,
+            "returns": {
+              "d1": -2.128,
+              "d2": -6.028,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.447,
+              "d2": -3.607,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2317",
+            "rank": 17,
+            "bullish_score": 0.368,
+            "signal_strength": "WEAK",
+            "chips_score": 0.32,
+            "tech_score": 0.8,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 0.0,
+              "d2": -1.408,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.681,
+              "d2": 1.013,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2481",
+            "rank": 18,
+            "bullish_score": 0.368,
+            "signal_strength": "WEAK",
+            "chips_score": 0.32,
+            "tech_score": 0.8,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 9.787,
+              "d2": 14.894,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.468,
+              "d2": 17.315,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6257",
+            "rank": 19,
+            "bullish_score": 0.353,
+            "signal_strength": "WEAK",
+            "chips_score": 0.32,
+            "tech_score": 0.75,
+            "news_score": 0.0,
+            "returns": {
+              "d1": 0.691,
+              "d2": -2.995,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.372,
+              "d2": -0.574,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6278",
+            "rank": 20,
+            "bullish_score": 0.353,
+            "signal_strength": "WEAK",
+            "chips_score": 0.32,
+            "tech_score": 0.75,
+            "news_score": 0.0,
+            "returns": {
+              "d1": -4.762,
+              "d2": -2.268,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -4.081,
+              "d2": 0.153,
+              "d3": null
+            }
+          }
+        ],
+        "summary": {
+          "d1": {
+            "n": 20,
+            "avg_return": 1.427,
+            "avg_alpha": 2.108,
+            "hit_rate": 0.55,
+            "beat_rate": 0.65,
+            "twii": -0.681
+          },
+          "d2": {
+            "n": 20,
+            "avg_return": -0.272,
+            "avg_alpha": 2.149,
+            "hit_rate": 0.35,
+            "beat_rate": 0.6,
+            "twii": -2.421
+          },
+          "d3": {
+            "n": 1,
+            "avg_return": -0.69,
+            "avg_alpha": null,
+            "hit_rate": 0.0,
+            "beat_rate": null,
+            "twii": null
+          }
+        }
+      },
+      "launchpad": {
+        "stocks": [],
+        "summary": {
+          "d1": null,
+          "d2": null,
+          "d3": null
+        }
+      },
+      "snapshot_file": "2026-05-17T18.json"
+    },
+    {
+      "generated_at": "2026-05-17T17:45:35.566740+08:00",
+      "schema_version": "2.0",
+      "base_date": "2026-05-15",
+      "eval_dates": {
+        "d1": "2026-05-18",
+        "d2": "2026-05-19",
+        "d3": "2026-05-20"
+      },
+      "twii_returns": {
+        "d1": -0.681,
+        "d2": -2.421,
+        "d3": null
+      },
+      "momentum": {
+        "stocks": [
+          {
+            "ticker": "2481",
+            "rank": 1,
+            "bullish_score": 0.657,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.62,
+            "tech_score": 0.8,
+            "news_score": 0.563,
+            "returns": {
+              "d1": 9.787,
+              "d2": 14.894,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.468,
+              "d2": 17.315,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2344",
+            "rank": 2,
+            "bullish_score": 0.634,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.75,
+            "tech_score": 0.55,
+            "news_score": 0.563,
+            "returns": {
+              "d1": 0.772,
+              "d2": -9.266,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.453,
+              "d2": -6.845,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3045",
+            "rank": 3,
+            "bullish_score": 0.621,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.8,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -0.437,
+              "d2": 1.747,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.244,
+              "d2": 4.168,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2383",
+            "rank": 4,
+            "bullish_score": 0.614,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.7,
+            "tech_score": 0.55,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -1.517,
+              "d2": -1.733,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.836,
+              "d2": 0.688,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "4904",
+            "rank": 5,
+            "bullish_score": 0.613,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.51,
+            "tech_score": 0.8,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -1.526,
+              "d2": -0.305,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.845,
+              "d2": 2.116,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2330",
+            "rank": 6,
+            "bullish_score": 0.611,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.56,
+            "tech_score": 0.65,
+            "news_score": 0.639,
+            "returns": {
+              "d1": -1.104,
+              "d2": -2.649,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.423,
+              "d2": -0.228,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2408",
+            "rank": 7,
+            "bullish_score": 0.61,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.69,
+            "tech_score": 0.55,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -2.087,
+              "d2": -11.878,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.406,
+              "d2": -9.457,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2303",
+            "rank": 8,
+            "bullish_score": 0.605,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.69,
+            "tech_score": 0.65,
+            "news_score": 0.447,
+            "returns": {
+              "d1": 0.909,
+              "d2": 2.727,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.59,
+              "d2": 5.148,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6770",
+            "rank": 9,
+            "bullish_score": 0.583,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.51,
+            "tech_score": 0.7,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -1.274,
+              "d2": -6.847,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.593,
+              "d2": -4.426,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2376",
+            "rank": 10,
+            "bullish_score": 0.576,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.65,
+            "news_score": 0.563,
+            "returns": {
+              "d1": 1.225,
+              "d2": -6.585,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.906,
+              "d2": -4.164,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2727",
+            "rank": 11,
+            "bullish_score": 0.576,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.53,
+            "tech_score": 0.65,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -1.48,
+              "d2": -1.057,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.799,
+              "d2": 1.364,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1605",
+            "rank": 12,
+            "bullish_score": 0.573,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.56,
+            "tech_score": 0.6,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -0.573,
+              "d2": -4.298,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.108,
+              "d2": -1.877,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3008",
+            "rank": 13,
+            "bullish_score": 0.572,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.52,
+            "tech_score": 0.65,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -4.499,
+              "d2": -2.322,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -3.818,
+              "d2": 0.099,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "1582",
+            "rank": 14,
+            "bullish_score": 0.572,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.37,
+            "tech_score": 0.85,
+            "news_score": 0.563,
+            "returns": {
+              "d1": 7.143,
+              "d2": 17.706,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 7.824,
+              "d2": 20.127,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6415",
+            "rank": 15,
+            "bullish_score": 0.569,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.4,
+            "tech_score": 0.8,
+            "news_score": 0.563,
+            "returns": {
+              "d1": 9.829,
+              "d2": 2.991,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.51,
+              "d2": 5.412,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "4571",
+            "rank": 16,
+            "bullish_score": 0.569,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.25,
+            "tech_score": 1.0,
+            "news_score": 0.563,
+            "returns": {
+              "d1": 9.953,
+              "d2": 7.82,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 10.634,
+              "d2": 10.241,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2049",
+            "rank": 17,
+            "bullish_score": 0.568,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.51,
+            "tech_score": 0.65,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -3.567,
+              "d2": -4.204,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -2.886,
+              "d2": -1.783,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3034",
+            "rank": 18,
+            "bullish_score": 0.563,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.46,
+            "tech_score": 0.7,
+            "news_score": 0.563,
+            "returns": {
+              "d1": 1.929,
+              "d2": -0.107,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 2.61,
+              "d2": 2.314,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "8028",
+            "rank": 19,
+            "bullish_score": 0.552,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.32,
+            "tech_score": 0.85,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -3.13,
+              "d2": -8.87,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -2.449,
+              "d2": -6.449,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "5269",
+            "rank": 20,
+            "bullish_score": 0.549,
+            "signal_strength": "MODERATE",
+            "chips_score": 0.35,
+            "tech_score": 0.8,
+            "news_score": 0.563,
+            "returns": {
+              "d1": -4.467,
+              "d2": -5.155,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -3.786,
+              "d2": -2.734,
+              "d3": null
+            }
+          }
+        ],
+        "summary": {
+          "d1": {
+            "n": 20,
+            "avg_return": 0.794,
+            "avg_alpha": 1.475,
+            "hit_rate": 0.4,
+            "beat_rate": 0.5,
+            "twii": -0.681
+          },
+          "d2": {
+            "n": 20,
+            "avg_return": -0.87,
+            "avg_alpha": 1.551,
+            "hit_rate": 0.3,
+            "beat_rate": 0.55,
+            "twii": -2.421
+          },
+          "d3": null
+        }
+      },
+      "launchpad": {
+        "stocks": [],
+        "summary": {
+          "d1": null,
+          "d2": null,
+          "d3": null
+        }
+      },
+      "snapshot_file": "2026-05-17T17.json"
+    },
+    {
+      "generated_at": "2026-05-17T16:32:14.784020+08:00",
+      "schema_version": "1.1",
+      "base_date": "2026-05-15",
+      "eval_dates": {
+        "d1": "2026-05-18",
+        "d2": "2026-05-19",
+        "d3": "2026-05-20"
+      },
+      "twii_returns": {
+        "d1": -0.681,
+        "d2": -2.421,
+        "d3": null
+      },
+      "momentum": {
+        "stocks": [
+          {
+            "ticker": "2317",
+            "rank": 1,
+            "bullish_score": 0.784,
+            "signal_strength": "STRONG",
+            "chips_score": null,
+            "tech_score": 0.8,
+            "news_score": 0.772,
+            "returns": {
+              "d1": 0.0,
+              "d2": -1.408,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.681,
+              "d2": 1.013,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2881",
+            "rank": 2,
+            "bullish_score": 0.772,
+            "signal_strength": "STRONG",
+            "chips_score": null,
+            "tech_score": 0.85,
+            "news_score": 0.72,
+            "returns": {
+              "d1": -0.937,
+              "d2": 1.145,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.256,
+              "d2": 3.566,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2882",
+            "rank": 3,
+            "bullish_score": 0.732,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": 0.75,
+            "news_score": 0.72,
+            "returns": {
+              "d1": -1.412,
+              "d2": -0.128,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.731,
+              "d2": 2.293,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6669",
+            "rank": 4,
+            "bullish_score": 0.651,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": 0.7,
+            "news_score": 0.618,
+            "returns": {
+              "d1": -0.489,
+              "d2": -4.399,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.192,
+              "d2": -1.978,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2382",
+            "rank": 5,
+            "bullish_score": 0.637,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": 0.55,
+            "news_score": 0.695,
+            "returns": {
+              "d1": -1.961,
+              "d2": -5.229,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.28,
+              "d2": -2.808,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2330",
+            "rank": 6,
+            "bullish_score": 0.592,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": 0.65,
+            "news_score": 0.554,
+            "returns": {
+              "d1": -1.104,
+              "d2": -2.649,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.423,
+              "d2": -0.228,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2454",
+            "rank": 7,
+            "bullish_score": 0.579,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": 0.7,
+            "news_score": 0.498,
+            "returns": {
+              "d1": 4.294,
+              "d2": -3.221,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 4.975,
+              "d2": -0.8,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3231",
+            "rank": 8,
+            "bullish_score": 0.497,
+            "signal_strength": "WEAK",
+            "chips_score": null,
+            "tech_score": 0.2,
+            "news_score": 0.695,
+            "returns": {
+              "d1": 0.0,
+              "d2": -2.214,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.681,
+              "d2": 0.207,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2303",
+            "rank": 9,
+            "bullish_score": 0.493,
+            "signal_strength": "WEAK",
+            "chips_score": null,
+            "tech_score": 0.65,
+            "news_score": 0.388,
+            "returns": {
+              "d1": 0.909,
+              "d2": 2.727,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.59,
+              "d2": 5.148,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3711",
+            "rank": 10,
+            "bullish_score": 0.453,
+            "signal_strength": "WEAK",
+            "chips_score": null,
+            "tech_score": 0.55,
+            "news_score": 0.388,
+            "returns": {
+              "d1": -6.764,
+              "d2": -13.711,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -6.083,
+              "d2": -11.29,
+              "d3": null
+            }
+          }
+        ],
+        "summary": {
+          "d1": {
+            "n": 10,
+            "avg_return": -0.746,
+            "avg_alpha": -0.065,
+            "hit_rate": 0.2,
+            "beat_rate": 0.5,
+            "twii": -0.681
+          },
+          "d2": {
+            "n": 10,
+            "avg_return": -2.909,
+            "avg_alpha": -0.488,
+            "hit_rate": 0.2,
+            "beat_rate": 0.5,
+            "twii": -2.421
+          },
+          "d3": null
+        }
+      },
+      "launchpad": {
+        "stocks": [],
+        "summary": {
+          "d1": null,
+          "d2": null,
+          "d3": null
+        }
+      },
+      "snapshot_file": "2026-05-17T16.json"
+    },
+    {
+      "generated_at": "2026-05-17T11:20:13.291434+08:00",
+      "schema_version": "1.0",
+      "base_date": "2026-05-15",
+      "eval_dates": {
+        "d1": "2026-05-18",
+        "d2": "2026-05-19",
+        "d3": "2026-05-20"
+      },
+      "twii_returns": {
+        "d1": -0.681,
+        "d2": -2.421,
+        "d3": null
+      },
+      "momentum": {
+        "stocks": [
+          {
+            "ticker": "2317",
+            "rank": 1,
+            "bullish_score": 0.75,
+            "signal_strength": "STRONG",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": 0.0,
+              "d2": -1.408,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.681,
+              "d2": 1.013,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2882",
+            "rank": 2,
+            "bullish_score": 0.715,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": -1.412,
+              "d2": -0.128,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.731,
+              "d2": 2.293,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2881",
+            "rank": 3,
+            "bullish_score": 0.715,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": -0.937,
+              "d2": 1.145,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.256,
+              "d2": 3.566,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3231",
+            "rank": 4,
+            "bullish_score": 0.675,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": 0.0,
+              "d2": -2.214,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.681,
+              "d2": 0.207,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2382",
+            "rank": 5,
+            "bullish_score": 0.675,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": -1.961,
+              "d2": -5.229,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -1.28,
+              "d2": -2.808,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3037",
+            "rank": 6,
+            "bullish_score": 0.66,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": -0.609,
+              "d2": -0.365,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.072,
+              "d2": 2.056,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "6669",
+            "rank": 7,
+            "bullish_score": 0.6,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": -0.489,
+              "d2": -4.399,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 0.192,
+              "d2": -1.978,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "8046",
+            "rank": 8,
+            "bullish_score": 0.594,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": 0.636,
+              "d2": 1.527,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.317,
+              "d2": 3.948,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2330",
+            "rank": 9,
+            "bullish_score": 0.536,
+            "signal_strength": "MODERATE",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": -1.104,
+              "d2": -2.649,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -0.423,
+              "d2": -0.228,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2454",
+            "rank": 10,
+            "bullish_score": 0.483,
+            "signal_strength": "WEAK",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": 4.294,
+              "d2": -3.221,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 4.975,
+              "d2": -0.8,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "3711",
+            "rank": 11,
+            "bullish_score": 0.375,
+            "signal_strength": "WEAK",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": -6.764,
+              "d2": -13.711,
+              "d3": null
+            },
+            "alphas": {
+              "d1": -6.083,
+              "d2": -11.29,
+              "d3": null
+            }
+          },
+          {
+            "ticker": "2303",
+            "rank": 12,
+            "bullish_score": 0.375,
+            "signal_strength": "WEAK",
+            "chips_score": null,
+            "tech_score": null,
+            "news_score": null,
+            "returns": {
+              "d1": 0.909,
+              "d2": 2.727,
+              "d3": null
+            },
+            "alphas": {
+              "d1": 1.59,
+              "d2": 5.148,
+              "d3": null
+            }
+          }
+        ],
+        "summary": {
+          "d1": {
+            "n": 12,
+            "avg_return": -0.62,
+            "avg_alpha": 0.061,
+            "hit_rate": 0.25,
+            "beat_rate": 0.583,
+            "twii": -0.681
+          },
+          "d2": {
+            "n": 12,
+            "avg_return": -2.327,
+            "avg_alpha": 0.094,
+            "hit_rate": 0.25,
+            "beat_rate": 0.583,
+            "twii": -2.421
+          },
+          "d3": null
+        }
+      },
+      "launchpad": {
+        "stocks": [],
+        "summary": {
+          "d1": null,
+          "d2": null,
+          "d3": null
+        }
+      },
+      "snapshot_file": "2026-05-17T11.json"
+    },
+    {
+      "generated_at": "2026-05-17T10:43:17.545310+08:00",
+      "schema_version": "1.0",
+      "base_date": "2026-05-15",
+      "eval_dates": {
+        "d1": "2026-05-18",
+        "d2": "2026-05-19",
+        "d3": "2026-05-20"
+      },
+      "twii_returns": {
+        "d1": -0.681,
+        "d2": -2.421,
+        "d3": null
+      },
+      "momentum": {
+        "stocks": [],
+        "summary": {
+          "d1": null,
+          "d2": null,
+          "d3": null
+        }
+      },
+      "launchpad": {
+        "stocks": [],
+        "summary": {
+          "d1": null,
+          "d2": null,
+          "d3": null
+        }
+      },
+      "snapshot_file": "2026-05-17T10.json"
+    }
+  ]
+}

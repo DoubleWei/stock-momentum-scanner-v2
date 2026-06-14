@@ -1,0 +1,58 @@
+name: Deploy to Pages
+
+on:
+  # 當 data pipeline 成功完成時自動觸發（bot push 不會觸發 push event，改用此方式）
+  workflow_run:
+    workflows: ["Update Stock Signals"]
+    types: [completed]
+    branches: [main]
+  # 前端程式碼有異動時觸發
+  push:
+    branches: [main]
+    paths:
+      - 'web/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: web/package-lock.json
+
+      - run: npm ci
+
+      - run: npm run build
+        env:
+          VITE_GH_PAT: ${{ secrets.GH_PAT }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,5 @@
+DEPLOY_STATUS=SUCCESS
+PUBLIC_URL=https://giant-cougars-stare.loca.lt
+DEPLOY_METHOD=localtunnel
+DEPLOY_DATE=2026-06-14
+WEBSITE_PATH=C:\Users\mosn8\stock-project\website\
