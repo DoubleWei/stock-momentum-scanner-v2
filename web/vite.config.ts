@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig(({ mode }) => ({
   // 對應 GitHub Pages project page URL
-  base: '/tw-bullish-screener/',
+  base: '/stock-momentum-scanner-v2/',
   plugins: [react(), tailwindcss()],
   // dev 模式從 dev-public 提供 fixture JSON；build 模式不複製任何東西（data/ 由 Actions 管理）
   publicDir: mode === 'development' ? 'dev-public' : false,
